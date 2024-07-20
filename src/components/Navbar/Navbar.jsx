@@ -32,7 +32,7 @@ const Navbar = () => {
     <div>
       <nav>
         <div className="navbar-image">
-            <Link to={'/'}><img src={logo} alt="" /></Link>
+            <Link to={'/crypto-list'}><img src={logo} alt="" /></Link>
         </div>
         <div className="nav-links">
             {/* <ul>
