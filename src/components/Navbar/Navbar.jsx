@@ -35,12 +35,12 @@ const Navbar = () => {
             <Link to={'/'}><img src={logo} alt="" /></Link>
         </div>
         <div className="nav-links">
-            <ul>
+            {/* <ul>
                 <Link to={'/'}><li><a href="#">Home</a></li></Link>
                 <li><a href="#">Features</a></li>
                 <li><a href="#">Pricing</a></li>
                 <li><a href="#">Blog</a></li>
-            </ul>
+            </ul> */}
         </div>
         <div className="nav-language">
             <select name="" id="" onChange={currencyHandler}>
@@ -48,9 +48,7 @@ const Navbar = () => {
                 <option value="eur">EUR</option>
                 <option value="inr">INR</option>
             </select>
-            <div className="signup-button">
-                <button>Sign up</button>
-            </div>
+            
         </div>
       </nav>
     </div>

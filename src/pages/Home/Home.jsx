@@ -28,7 +28,7 @@ const Home = () => {
     <div className='Home'>
       <div className="hero">
             <h1>Largest <br />Crypto Trade Show</h1>
-            <p>Welcome to the world's largest cryptocurrency Trade Show. <br />Sign up in Crypto List to explore more Cryptos.</p> 
+            <p>Welcome to the world's largest cryptocurrency Trade Show. </p> 
             
             <form action="" className='crypto-form' onSubmit={searchHandler}>
                 <input type="text" list='coinlist' placeholder='Search here...' onChange={inputHandler} value={input} required/>
