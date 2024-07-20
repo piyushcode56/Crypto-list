@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/crypto-list/static/css/main.003a054d.css",
+    "main.js": "/crypto-list/static/js/main.91f3c7b2.js",
+    "static/media/Self_transparent.png": "/crypto-list/static/media/Self_transparent.5b1f28fce9ea792a3eb0.png",
+    "index.html": "/crypto-list/index.html",
+    "main.003a054d.css.map": "/crypto-list/static/css/main.003a054d.css.map",
+    "main.91f3c7b2.js.map": "/crypto-list/static/js/main.91f3c7b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.003a054d.css",
+    "static/js/main.91f3c7b2.js"
+  ]
+}
